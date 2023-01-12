@@ -1,0 +1,6 @@
+# -----
+.idea
+.gradle
+build/
+ffmpeg-temp/
+android/contrib/build/
