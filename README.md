@@ -109,6 +109,10 @@ https://github.com/android/ndk/wiki/Unsupported-Downloads
 8. 权限 终端提示权限拒绝
    sudo chmod -R 777 **
 ```
+```
+9. compile-ijk.sh 执行失败
+   删除缓存文件，**/android/ijkplayer/ijkplayer-armv7a/src/main目录下的obj、lib缓存
+```
 
 #
 #### 记录2 => 解决可能存在与三方依赖库的so文件名重复冲突
